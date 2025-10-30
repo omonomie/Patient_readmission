@@ -1,4 +1,4 @@
-# Hospital Patient Readmission Prediction Project
+# Hospital Patient
 
 ## 📋 Project Overview
 
